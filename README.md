@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/igor-eduardo-poloni-ferreira-3a9778235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
-  ##
+  ***
   
 <div style="display: inline_block"><br>   
   <img align="left" alt="Igor" height="400" width="400" src="https://cdn.discordapp.com/attachments/1027157111882395670/1060265212810371102/octocat-1672853925128.png">
@@ -33,3 +33,4 @@
  <h2 align="center">Vem comigo nessa jornada, "Bora" programar?</h2>
  
  </div>
+  
