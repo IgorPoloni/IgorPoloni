@@ -33,13 +33,3 @@
  <h2 align="center">Vem comigo nessa jornada, "Bora" programar?</h2>
  
  </div>
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
