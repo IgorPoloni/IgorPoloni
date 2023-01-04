@@ -1,16 +1,30 @@
-### Hi there 👋
-
-<!--
-**IgorPoloni/IgorPoloni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ## Eai galera, sou o Igor Eduardo 😎 
+ 
+<h3>*Estudante de análise e desenvolvimento de sistemas / FATEC-Americana;</h3>
+ 
+<h3>*Novo no mundo do desenvolvimento, em busca de uma vaga como Programador tanto Fron-end como Back-end.</h3>
+ 
+<div align="center">
+  <a href="https://github.com/IgorPoloni">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorPoloni&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorPoloni&layout=compact&theme=tokyonight"/>
+</div>
+<div align="center">
+  <a href="https://www.instagram.com/igoredu.poloni/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/igor-eduardo-poloni-ferreira-3a9778235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+  
+  ##
+  
+<div style="display: inline_block"><br>   
+  <img align="left" alt="Igor" height="400" width="400" src="https://cdn.discordapp.com/attachments/1027157111882395670/1060265212810371102/octocat-1672853925128.png">
+  <div align="center top">
+  <h2>Atualmente estou aprendendo e utilizando as seguintes ferramentas e linguagens:</h2>
+  </div>
+  <img align="center" alt="Igor-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Igor-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Igor-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Igor-PHP" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" alt="Igor-MySQL" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <h2>Sempre procurando aprender e desenvolver mais+</h2>
+</div>
