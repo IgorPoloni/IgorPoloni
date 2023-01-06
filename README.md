@@ -33,22 +33,17 @@
   <img align="center" alt="Igor-Git" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
   <h2>Estou sempre buscando aprender e me dedico a melhorar todos os dias.</h2>
  
- 
- <h2 align="center">Vem comigo nessa jornada, "Bora" programar?</h2>
- 
- </div>
-  
- ---
- 
- <div>
-  
  ![Snake animation](https://github.com/IgorPoloni/IgorPoloni/blob/output/github-contribution-grid-snake.svg)
  
+ <h2 align="center">Vem comigo nessa jornada, "Bora" programar?</h2>
  </div>
- 
- <div>
   
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0FC2C0&height=120&section=footer"/>
- 
- </div>
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{IgorPoloni}/count.svg" /></p> 
+<br>
+</div>
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0FC2C0&height=120&section=footer"/>
+
 
