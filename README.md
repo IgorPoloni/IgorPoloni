@@ -1,4 +1,8 @@
- ## Eai galera, sou o Igor Eduardo 😎 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0FC2C0&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0FC2C0&size=35&center=true&vCenter=true&width=1000&lines=EAI+GALERA!,+Meu+nome+é+Igor+Poloni;Eu+tenho+25+anos;Moro+no+Brasil;Seja+bem+vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
+
+##
  
 <h3>*Estudante de análise e desenvolvimento de sistemas / FATEC-Americana;</h3>
  
@@ -6,7 +10,7 @@
  
 <div align="center">
   <a href="https://github.com/IgorPoloni">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorPoloni&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img  width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=IgorPoloni&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorPoloni&layout=compact&theme=tokyonight"/>
 </div>
 <div align="center">
@@ -35,3 +39,4 @@
  
  </div>
   
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0FC2C0&height=120&section=footer"/>
